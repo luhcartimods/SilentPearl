@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "silentpearl:item/silent_ender_pearl"
+  }
+}
